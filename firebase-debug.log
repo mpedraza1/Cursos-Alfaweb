@@ -1,0 +1,21 @@
+[debug] [2022-04-24T02:25:18.827Z] ----------------------------------------------------------------------
+[debug] [2022-04-24T02:25:18.829Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\LENOVO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-24T02:25:18.830Z] CLI Version:   10.7.1
+[debug] [2022-04-24T02:25:18.830Z] Platform:      win32
+[debug] [2022-04-24T02:25:18.830Z] Node Version:  v16.13.1
+[debug] [2022-04-24T02:25:18.832Z] Time:          Sat Apr 23 2022 22:25:18 GMT-0400 (Chile Standard Time)
+[debug] [2022-04-24T02:25:18.833Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-24T02:25:18.844Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-24T02:25:18.845Z] > authorizing via signed-in user (m.pedraza.santoro@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\LENOVO\OneDrive\Escritorio\Desafio_c_alfaweb\prueba
+
